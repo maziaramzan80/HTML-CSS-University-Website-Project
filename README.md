@@ -25,9 +25,15 @@ A modern **Minhaj University Lahore Website** built using **HTML5** and **CSS3**
 
 ## 📸 Preview
 
+Home Page
+
 ![Minhaj University Website](preview1.png)
 
+About Section
+
 ![Minhaj University Website](preview2.png)
+
+Contact Section
 
 ![Minhaj University Website](preview3.png)
 
