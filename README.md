@@ -39,8 +39,7 @@ A modern **Minhaj University Lahore Website** built using **HTML5** and **CSS3**
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:**  
-*(Add your GitHub Pages, Vercel, or Netlify deployment link here.)*
+🌐 **Live Website:** https://maziaramzan80.github.io/HTML-CSS-University-Website-Project/
 
 ## 📚 What I Learned
 
