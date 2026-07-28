@@ -23,6 +23,10 @@ A modern **Minhaj University Lahore Website** built using **HTML5** and **CSS3**
 - HTML5
 - CSS3
 
+## 🚀 Live Demo
+
+🌐 **Live Website:** https://maziaramzan80.github.io/HTML-CSS-University-Website-Project/
+
 ## 📸 Preview
 
 ## Home Page
@@ -36,10 +40,6 @@ A modern **Minhaj University Lahore Website** built using **HTML5** and **CSS3**
 ## Contact Section
 
 ![Minhaj University Website](preview3.png)
-
-## 🚀 Live Demo
-
-🌐 **Live Website:** https://maziaramzan80.github.io/HTML-CSS-University-Website-Project/
 
 ## 📚 What I Learned
 
